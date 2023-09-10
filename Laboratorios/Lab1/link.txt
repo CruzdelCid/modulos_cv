@@ -1,1 +1,9 @@
+Link del repositorio
 https://github.com/CruzdelCid/modulos_cv/tree/main/Laboratorios/Lab1
+
+
+INSTRUCCIONES DE EJECUCIÓN:
+- Clonar el repositorio
+- Entrar al ambiente virtual de conda con cv instalado 
+- Abrir carpeta '/modulos_cv/Laboratorios/Lab1' del repositorio  
+- Ejecutar el programa con 'python laboratorio_1.py [input_filename] [output_filename]'
